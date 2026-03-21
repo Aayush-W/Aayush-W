@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development, Frontend Development, AIML , Data Analysis, Data Structures<br>🤝 I’m looking for help with backend development, collaboration for new projects<br>🌱 I’m currently learning Web development, machine learning and data structures<br>💬 Ask me about AI , robotics , webdev<br>⚡ Fun fact: I have a patent published on Wearable ergonomics system for accident prevention with haptic alerts and alert methods.
+🔭 I’m currently working on Web Development, Frontend Development, AIML , Data Analysis, Data Structures<br>🤝 I’m looking for help with backend development, collaboration for new projects<br>🌱 I’m currently learning Web development, machine learning and data structures<br>💬 Ask me about AI , robotics , webdev<br>⚡ Fun fact: I have a patent published on Wearable ergonomics system for accident prevention with haptic alerts and alert methods.And also a National Hackathon Winner.
 
 
 ## 🌐 Socials:
