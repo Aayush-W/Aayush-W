@@ -8,7 +8,7 @@
 
 <h3><code>aayush@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Aayush's GitHub contribution graph — auto-refreshed daily" />
+<img src="https://raw.githubusercontent.com/Aayush-W/Aayush-W/main/contrib-heatmap.svg" width="860" alt="Aayush's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
