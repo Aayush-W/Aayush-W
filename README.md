@@ -4,12 +4,11 @@
      panel. regenerate portrait: python scripts/prep_photo.py <photo> &&
      python scripts/make_ascii_svg.py ; info panel: python scripts/make_info_card.py -->
 
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+<!-- animated contribution graph: real time data from ghchart -->
 
 <h3><code>aayush@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Aayush's GitHub contribution graph — auto-refreshed daily" />
+<img src="https://ghchart.rshah.org/Aayush-W" alt="Aayush's GitHub contribution graph" />
 
 <br>
 <br>
