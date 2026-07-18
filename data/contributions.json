@@ -1,19 +1,11 @@
 {
   "username": "Aayush-W",
-<<<<<<< HEAD
-  "generated_at": "2026-07-18T19:36:20Z",
-=======
-  "generated_at": "2026-07-18T19:31:33Z",
->>>>>>> 0f01f120859d15518614b9b2a3905c50dfe05f7f
+  "generated_at": "2026-07-18T19:38:47Z",
   "range": {
     "start": "2025-07-13",
     "end": "2026-07-18"
   },
-<<<<<<< HEAD
   "total_contributions": 329,
-=======
-  "total_contributions": 328,
->>>>>>> 0f01f120859d15518614b9b2a3905c50dfe05f7f
   "active_days": 64,
   "avg_per_active_day": 5.1,
   "current_streak": {
@@ -81,11 +73,7 @@
     },
     {
       "month": "2026-07",
-<<<<<<< HEAD
       "total": 11
-=======
-      "total": 10
->>>>>>> 0f01f120859d15518614b9b2a3905c50dfe05f7f
     }
   ],
   "days": [
@@ -1571,11 +1559,7 @@
     },
     {
       "date": "2026-07-18",
-<<<<<<< HEAD
       "count": 3
-=======
-      "count": 2
->>>>>>> 0f01f120859d15518614b9b2a3905c50dfe05f7f
     }
   ]
 }
