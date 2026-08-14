@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Aayush Walsangikar — ASCII portrait" /></td>
+<td valign="top"><img src="./aayush-ascii.svg" width="370" alt="Aayush Walsangikar — ASCII portrait" /></td>
 <td valign="top"><img src="./info-card.svg" width="490" alt="Aayush Walsangikar — experience, stack, highlights" /></td>
 </tr>
 </table>
